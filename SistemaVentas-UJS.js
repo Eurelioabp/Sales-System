@@ -90,3 +90,11 @@ orden2.agregarProducto(producto2) // -> Lo mismo que el de arriba.
 
 
 console.log(orden1.mostrarOrden()); //->Muestra tu factura en pantalla.
+
+/*
+Orden: 1 Total: 400, Productos: 
+{idProducto: 1, nombre: Shampoo, precio: Bs 100 } 
+{idProducto: 2, nombre: camisa, precio: Bs 300 } 
+
+Esto será lo que verás en pantalla. Ya depende de lo que agregarás que verás tus resultados para tu factura.
+*/
